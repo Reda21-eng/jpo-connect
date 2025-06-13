@@ -1,0 +1,6 @@
+<?php
+// ...existing code...
+class StatService {
+    // Méthodes pour calculer et fournir les statistiques du tableau de bord
+}
+// ...existing code...

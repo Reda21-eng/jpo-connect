@@ -1,0 +1,6 @@
+<?php
+// ...existing code...
+class NotificationService {
+    // Méthodes pour envoyer et gérer les notifications
+}
+// ...existing code...
