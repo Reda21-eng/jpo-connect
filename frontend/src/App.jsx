@@ -46,7 +46,7 @@ function App() {
           <>
             <LoginForm onLogin={handleLogin} />
             <RegisterForm onRegister={handleRegister} />
-            {/* Le dashboard complet n'est PAS affiché ici */}
+  
           </>
         ) : (
           <>
