@@ -2815,3 +2815,657 @@
 [13-Jun-2025 09:25:52 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
 [13-Jun-2025 09:25:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo_connect.site_content' n'existe pas
 [13-Jun-2025 09:25:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo_connect.site_content' n'existe pas
+[16-Jun-2025 14:05:59 UTC] Tentative de connexion - Données reçues : {"email":"anissa.ourdjini@laplateforme.io","password":"versailles"}
+[16-Jun-2025 14:05:59 UTC] Tentative de connexion pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 14:05:59 UTC] Mot de passe vérifié pour l'utilisateur : OURDJINI (role_id: 2)
+[16-Jun-2025 14:05:59 UTC] Connexion réussie pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 14:05:59 UTC] Session créée : {"user":{"id":1,"username":"OURDJINI","email":"anissa.ourdjini@laplateforme.io","role_id":2,"created_at":"2025-06-16 16:05:43"}}
+[16-Jun-2025 14:05:59 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 14:05:59 UTC] isAdmin result: false
+[16-Jun-2025 14:05:59 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 14:05:59 UTC] Found 0 comments
+[16-Jun-2025 14:05:59 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 14:05:59 UTC] isAdmin result: false
+[16-Jun-2025 14:05:59 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 14:05:59 UTC] Found 0 comments
+[16-Jun-2025 14:23:23 UTC] Tentative de connexion - Données reçues : {"email":"anissa.ourdjini@laplateforme.io","password":"versailles"}
+[16-Jun-2025 14:23:23 UTC] Tentative de connexion pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 14:23:23 UTC] Mot de passe vérifié pour l'utilisateur : OURDJINI (role_id: 2)
+[16-Jun-2025 14:23:23 UTC] Connexion réussie pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 14:23:23 UTC] Session créée : {"user":{"id":1,"username":"OURDJINI","email":"anissa.ourdjini@laplateforme.io","role_id":2,"created_at":"2025-06-16 16:05:43"}}
+[16-Jun-2025 14:23:23 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 14:23:23 UTC] isAdmin result: false
+[16-Jun-2025 14:23:23 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 14:23:23 UTC] Found 0 comments
+[16-Jun-2025 14:23:23 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 14:23:23 UTC] isAdmin result: false
+[16-Jun-2025 14:23:23 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 14:23:23 UTC] Found 0 comments
+[16-Jun-2025 14:24:00 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 14:24:00 UTC] isAdmin result: false
+[16-Jun-2025 14:24:00 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 14:24:00 UTC] Found 0 comments
+[16-Jun-2025 15:04:24 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:04:24 UTC] isAdmin result: false
+[16-Jun-2025 15:04:24 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:04:24 UTC] Found 0 comments
+[16-Jun-2025 15:04:24 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:04:24 UTC] isAdmin result: false
+[16-Jun-2025 15:04:24 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:04:24 UTC] Found 0 comments
+[16-Jun-2025 15:04:26 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:04:26 UTC] isAdmin result: false
+[16-Jun-2025 15:04:26 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:04:26 UTC] Found 0 comments
+[16-Jun-2025 15:04:26 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 2
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:04:26 UTC] isAdmin result: false
+[16-Jun-2025 15:04:26 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:04:26 UTC] Found 0 comments
+[16-Jun-2025 15:06:46 UTC] Tentative de connexion - Données reçues : {"email":"anissa.ourdjini@laplateforme.io","password":"versailles"}
+[16-Jun-2025 15:06:46 UTC] Tentative de connexion pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 15:06:46 UTC] Mot de passe vérifié pour l'utilisateur : OURDJINI (role_id: 1)
+[16-Jun-2025 15:06:46 UTC] Connexion réussie pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 15:06:46 UTC] Session créée : {"user":{"id":1,"username":"OURDJINI","email":"anissa.ourdjini@laplateforme.io","role_id":1,"created_at":"2025-06-16 16:05:43"}}
+[16-Jun-2025 15:06:46 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:06:46 UTC] isAdmin result: true
+[16-Jun-2025 15:06:46 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:06:46 UTC] Found 1 comments
+[16-Jun-2025 15:06:46 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:06:46 UTC] Session user non définie
+[16-Jun-2025 15:06:46 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:06:46 UTC] Found 0 comments
+[16-Jun-2025 15:06:47 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:06:47 UTC] isAdmin result: true
+[16-Jun-2025 15:06:47 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:06:47 UTC] Found 1 comments
+[16-Jun-2025 15:06:47 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:06:47 UTC] Session user non définie
+[16-Jun-2025 15:06:47 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:06:47 UTC] Found 0 comments
+[16-Jun-2025 15:06:47 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:06:47 UTC] PHP Stack trace:
+[16-Jun-2025 15:06:47 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:06:47 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:06:47 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:06:47 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:06:47 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:06:47 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:06:47 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:06:47 UTC] PHP Stack trace:
+[16-Jun-2025 15:06:47 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:06:47 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:06:47 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:06:47 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:40 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:40 UTC] PHP Stack trace:
+[16-Jun-2025 15:09:40 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:09:40 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:09:40 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:40 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:40 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:09:40 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:40 UTC] isAdmin result: true
+[16-Jun-2025 15:09:40 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:09:40 UTC] Found 1 comments
+[16-Jun-2025 15:09:40 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:40 UTC] PHP Stack trace:
+[16-Jun-2025 15:09:40 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:09:40 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:09:40 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:40 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:40 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:40 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:09:40 UTC] Session user non définie
+[16-Jun-2025 15:09:40 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:09:40 UTC] Found 0 comments
+[16-Jun-2025 15:09:40 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:09:40 UTC] isAdmin result: true
+[16-Jun-2025 15:09:40 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:09:40 UTC] Found 1 comments
+[16-Jun-2025 15:09:40 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:09:40 UTC] Session user non définie
+[16-Jun-2025 15:09:40 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:09:40 UTC] Found 0 comments
+[16-Jun-2025 15:09:43 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:43 UTC] PHP Stack trace:
+[16-Jun-2025 15:09:43 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:09:43 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:09:43 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:52 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:09:52 UTC] isAdmin result: true
+[16-Jun-2025 15:09:52 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:09:52 UTC] Found 1 comments
+[16-Jun-2025 15:09:52 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:09:52 UTC] Session user non définie
+[16-Jun-2025 15:09:52 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:09:52 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:52 UTC] Found 0 comments
+[16-Jun-2025 15:09:52 UTC] PHP Stack trace:
+[16-Jun-2025 15:09:52 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:09:52 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:09:52 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:52 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:52 UTC] PHP Stack trace:
+[16-Jun-2025 15:09:52 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:09:52 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[16-Jun-2025 15:09:52 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:09:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:52 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:09:52 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:09:52 UTC] Session user non définie
+[16-Jun-2025 15:09:52 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:09:52 UTC] Found 0 comments
+[16-Jun-2025 15:09:52 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:09:52 UTC] isAdmin result: true
+[16-Jun-2025 15:09:52 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:09:52 UTC] Found 1 comments
+[16-Jun-2025 15:12:39 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:12:39 UTC] PHP Stack trace:
+[16-Jun-2025 15:12:39 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:12:39 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:175
+[16-Jun-2025 15:12:39 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:12:39 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:12:39 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:12:39 UTC] isAdmin result: true
+[16-Jun-2025 15:12:39 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:12:39 UTC] Found 1 comments
+[16-Jun-2025 15:12:39 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:12:39 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:12:39 UTC] PHP Stack trace:
+[16-Jun-2025 15:12:39 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:12:39 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:175
+[16-Jun-2025 15:12:39 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:12:39 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:12:39 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:12:39 UTC] Session user non définie
+[16-Jun-2025 15:12:39 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:12:39 UTC] Found 0 comments
+[16-Jun-2025 15:12:39 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:12:39 UTC] isAdmin result: true
+[16-Jun-2025 15:12:39 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:12:39 UTC] Found 1 comments
+[16-Jun-2025 15:12:39 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:12:39 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:12:39 UTC] Session user non définie
+[16-Jun-2025 15:12:39 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:12:39 UTC] Found 0 comments
+[16-Jun-2025 15:22:23 UTC] Tentative de connexion - Données reçues : {"email":"anissa.ourdjini@laplateforme.io","password":"versailles"}
+[16-Jun-2025 15:22:23 UTC] Tentative de connexion pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 15:22:23 UTC] Mot de passe vérifié pour l'utilisateur : OURDJINI (role_id: 1)
+[16-Jun-2025 15:22:23 UTC] Connexion réussie pour : anissa.ourdjini@laplateforme.io
+[16-Jun-2025 15:22:23 UTC] Session créée : {"user":{"id":1,"username":"OURDJINI","email":"anissa.ourdjini@laplateforme.io","role_id":1,"created_at":"2025-06-16 16:05:43"}}
+[16-Jun-2025 15:22:23 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:22:23 UTC] isAdmin result: true
+[16-Jun-2025 15:22:23 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:22:23 UTC] Found 1 comments
+[16-Jun-2025 15:22:23 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:22:23 UTC] PHP Stack trace:
+[16-Jun-2025 15:22:23 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:22:23 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:22:23 UTC] Session user non définie
+[16-Jun-2025 15:22:23 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:22:23 UTC] Found 0 comments
+[16-Jun-2025 15:22:23 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:22:23 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[16-Jun-2025 15:22:23 UTC] isAdmin result: true
+[16-Jun-2025 15:22:23 UTC] Getting comments, isAdmin: true
+[16-Jun-2025 15:22:23 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:22:23 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:175
+[16-Jun-2025 15:22:23 UTC] Found 1 comments
+[16-Jun-2025 15:22:23 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:22:23 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:22:23 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:22:23 UTC] PHP Stack trace:
+[16-Jun-2025 15:22:23 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[16-Jun-2025 15:22:23 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:175
+[16-Jun-2025 15:22:23 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[16-Jun-2025 15:22:24 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[16-Jun-2025 15:22:24 UTC] Check isAdmin - Session: Array
+(
+)
+
+[16-Jun-2025 15:22:24 UTC] Session user non définie
+[16-Jun-2025 15:22:24 UTC] Getting comments, isAdmin: false
+[16-Jun-2025 15:22:24 UTC] Found 0 comments
+[17-Jun-2025 07:29:51 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:29:51 UTC] isAdmin result: true
+[17-Jun-2025 07:29:51 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:29:51 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:29:51 UTC] PHP Stack trace:
+[17-Jun-2025 07:29:51 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:29:51 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:29:51 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:29:51 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:29:51 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:29:51 UTC] Found 1 comments
+[17-Jun-2025 07:29:51 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:29:51 UTC] PHP Stack trace:
+[17-Jun-2025 07:29:51 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:29:51 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:29:51 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:29:51 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:29:51 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:29:52 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:29:52 UTC] Session user non définie
+[17-Jun-2025 07:29:52 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:29:52 UTC] Found 0 comments
+[17-Jun-2025 07:29:52 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:29:52 UTC] isAdmin result: true
+[17-Jun-2025 07:29:52 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:29:52 UTC] Found 1 comments
+[17-Jun-2025 07:29:52 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:29:52 UTC] Session user non définie
+[17-Jun-2025 07:29:52 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:29:52 UTC] Found 0 comments
+[17-Jun-2025 07:30:09 UTC] Tentative de connexion - Données reçues : {"email":"anissa.ourdjini@laplateforme.io","password":"versailles"}
+[17-Jun-2025 07:30:09 UTC] Tentative de connexion pour : anissa.ourdjini@laplateforme.io
+[17-Jun-2025 07:30:09 UTC] Mot de passe vérifié pour l'utilisateur : OURDJINI (role_id: 1)
+[17-Jun-2025 07:30:09 UTC] Connexion réussie pour : anissa.ourdjini@laplateforme.io
+[17-Jun-2025 07:30:09 UTC] Session créée : {"user":{"id":1,"username":"OURDJINI","email":"anissa.ourdjini@laplateforme.io","role_id":1,"created_at":"2025-06-16 16:05:43"}}
+[17-Jun-2025 07:30:09 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:30:09 UTC] isAdmin result: true
+[17-Jun-2025 07:30:09 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:30:09 UTC] Found 1 comments
+[17-Jun-2025 07:30:09 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:30:09 UTC] Session user non définie
+[17-Jun-2025 07:30:09 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:30:09 UTC] Found 0 comments
+[17-Jun-2025 07:30:09 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:30:09 UTC] isAdmin result: true
+[17-Jun-2025 07:30:09 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:30:09 UTC] Found 1 comments
+[17-Jun-2025 07:30:10 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:30:10 UTC] PHP Stack trace:
+[17-Jun-2025 07:30:10 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:30:10 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:30:10 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:30:10 UTC] Session user non définie
+[17-Jun-2025 07:30:10 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:30:10 UTC] Found 0 comments
+[17-Jun-2025 07:30:10 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:30:10 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:30:10 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:30:10 UTC] PHP Stack trace:
+[17-Jun-2025 07:30:10 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:30:10 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:30:10 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:30:10 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:30:10 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:30:10 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:39:11 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:39:11 UTC] isAdmin result: true
+[17-Jun-2025 07:39:11 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:39:11 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:39:11 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:39:11 UTC] Found 1 comments
+[17-Jun-2025 07:39:11 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:39:11 UTC] PHP Stack trace:
+[17-Jun-2025 07:39:11 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:39:11 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:39:11 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:39:11 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:39:11 UTC] Server Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'jpo-connect.site_content' n'existe pas
+[17-Jun-2025 07:39:11 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:39:11 UTC] Session user non définie
+[17-Jun-2025 07:39:11 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:39:11 UTC] Found 0 comments
+[17-Jun-2025 07:39:11 UTC] PHP Warning:  require_once(C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php): Failed to open stream: No such file or directory in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:39:11 UTC] PHP Stack trace:
+[17-Jun-2025 07:39:11 UTC] PHP   1. {main}() C:\wamp64\www\jpo-connect\backend\index.php:0
+[17-Jun-2025 07:39:11 UTC] PHP   2. require_once() C:\wamp64\www\jpo-connect\backend\index.php:184
+[17-Jun-2025 07:39:11 UTC] Uncaught Exception: Failed opening required 'C:\wamp64\www\jpo-connect\backend\src\controllers/../models/Database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\jpo-connect\backend\src\controllers\DashboardController.php on line 2
+[17-Jun-2025 07:39:11 UTC] Check isAdmin - Session: Array
+(
+    [user] => Array
+        (
+            [id] => 1
+            [username] => OURDJINI
+            [email] => anissa.ourdjini@laplateforme.io
+            [role_id] => 1
+            [created_at] => 2025-06-16 16:05:43
+        )
+
+)
+
+[17-Jun-2025 07:39:11 UTC] isAdmin result: true
+[17-Jun-2025 07:39:11 UTC] Getting comments, isAdmin: true
+[17-Jun-2025 07:39:11 UTC] Found 1 comments
+[17-Jun-2025 07:39:11 UTC] Check isAdmin - Session: Array
+(
+)
+
+[17-Jun-2025 07:39:11 UTC] Session user non définie
+[17-Jun-2025 07:39:11 UTC] Getting comments, isAdmin: false
+[17-Jun-2025 07:39:11 UTC] Found 0 comments
